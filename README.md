@@ -3,7 +3,7 @@ Mithril integration/staging tree
 
 http://www.mithrilda.org
 
-Copyright (c) 2009-2013 Mithril Developers
+Copyright (c) 2009-2017 Mithril Developers
 
 What is Mithril?
 ----------------
